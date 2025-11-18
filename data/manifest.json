@@ -1,0 +1,25 @@
+{
+    "last_message_ts": "1763395850.887039",
+    "processed_file_ids": [
+        "F09SY68JL1L",
+        "F09SYV44Y1M"
+    ],
+    "files": {
+        "F09SY68JL1L": {
+            "name": "ConSenAI_Summ&Collab.docx",
+            "path": "/home/HDD1/huy_client/Projects/AIV/SlackBot/ingestion/../data/files/ConSenAI_Summ&Collab.docx",
+            "timestamp": 1763137092,
+            "user": "U08EMNR080G",
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "filetype": "docx"
+        },
+        "F09SYV44Y1M": {
+            "name": "VLSPwhitepaper - Final.pdf",
+            "path": "/home/HDD1/huy_client/Projects/AIV/SlackBot/ingestion/../data/files/VLSPwhitepaper - Final.pdf",
+            "timestamp": 1763385016,
+            "user": "U08EMNR080G",
+            "mimetype": "application/pdf",
+            "filetype": "pdf"
+        }
+    }
+}
